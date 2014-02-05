@@ -1,0 +1,4 @@
+gitKursTest
+===========
+
+Oppgaver for kurs
